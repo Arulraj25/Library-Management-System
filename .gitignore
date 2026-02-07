@@ -1,0 +1,27 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# MySQL files
+*.frm
+*.MYD
+*.MYI
+*.ibd
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
